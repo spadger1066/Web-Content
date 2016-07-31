@@ -295,6 +295,7 @@
 				DCE669571D4D5F2400E01C79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
